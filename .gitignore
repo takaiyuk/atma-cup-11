@@ -144,6 +144,7 @@ cython_debug/
 *.pth
 *.png
 input/*
+dino/
 kaggle-base/
 # notebooks/*
 .vscode/
